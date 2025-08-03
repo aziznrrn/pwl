@@ -4,9 +4,8 @@ Ini adalah aplikasi web CRUD (Create, Read, Update, Delete) sederhana yang diban
 
 ## Presentasi Aplikasi
 
-<video src="presentasi-1-h265.mp4" controls="controls" style="max-width: 720px;"></video>
-
-<video src="presentasi-2-database-h265.mp4" controls="controls" style="max-width: 720px;"></video>
+[<video src="presentasi-1-h265.mp4" controls="controls" style="max-width: 720px;"></video>](https://github.com/aziznrrn/pwl/blob/main/presentasi-1-h265.mp4)
+[<video src="presentasi-2-database-h265.mp4" controls="controls" style="max-width: 720px;"></video>](https://github.com/aziznrrn/pwl/blob/main/presentasi-2-database-h265.mp4)
 
 ## Teknologi yang Digunakan
 
