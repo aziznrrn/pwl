@@ -2,10 +2,9 @@
 
 Ini adalah aplikasi web CRUD (Create, Read, Update, Delete) sederhana yang dibangun untuk mengelola data kepegawaian di sebuah fakultas teknik. Aplikasi ini dibuat sebagai Single-Page Application (SPA), di mana semua interaksi terjadi secara dinamis tanpa perlu memuat ulang halaman.
 
-## Presentasi Aplikasi
-
-[<video src="presentasi-1-h265.mp4" controls="controls" style="max-width: 720px;"></video>](https://github.com/aziznrrn/pwl/blob/main/presentasi-1-h265.mp4)
-[<video src="presentasi-2-database-h265.mp4" controls="controls" style="max-width: 720px;"></video>](https://github.com/aziznrrn/pwl/blob/main/presentasi-2-database-h265.mp4)
+## Presentasi 
+- [presentasi 1](https://youtu.be/oCcG7aK0ZUc)
+- [presentasi 2: database](https://youtu.be/w7tSRI3PqXo)
 
 ## Teknologi yang Digunakan
 
